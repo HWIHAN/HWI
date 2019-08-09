@@ -1,1 +1,1 @@
-test: "mytest_v2"
+test: "release"

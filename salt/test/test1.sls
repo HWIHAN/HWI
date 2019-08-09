@@ -2,5 +2,5 @@
 
 test1_v1:
     cmd.run:
-        - name: "echo {{ test_pillar }} > /opt/test1_v1"
+        - name: "echo {{ test_pillar }} > /opt/release"
         - runas: root
