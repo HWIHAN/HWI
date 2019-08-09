@@ -1,9 +1,0 @@
-node {
-    
-    stage('test file')
-    {
-        datas = readYaml file: 'version.yaml'
-        sh " echo ${datas.pennysystem} "
-        
-    }
-}
