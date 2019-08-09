@@ -1,1 +1,1 @@
-test: "mytest_v1"
+test: "mytest_v2"
