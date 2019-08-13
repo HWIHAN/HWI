@@ -1,1 +1,1 @@
-test: "release"
+test: "11.0"
